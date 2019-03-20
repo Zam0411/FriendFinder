@@ -1,0 +1,18 @@
+.jumbotron {
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.Quest {
+    padding-left: 15%;
+}
+.Survey {
+    padding-left: 15%;
+}
+
+hr {
+    margin-right: 30%;
+    height: 10px;
+}
+#name {
+    width: 800px;
+}
